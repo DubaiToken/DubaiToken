@@ -1,5 +1,5 @@
 
-# DubaiToken Smart Contracts
+# DubaiToken(DXB) Smart Contracts
 <img hight="180" width="180" alt="current" src="./assets/dubaiToken.jpg">
 
 [![yarn](https://img.shields.io/badge/yarn-v1.6.0-yellow.svg)](https://yarnpkg.com/lang/en/docs/install/)
