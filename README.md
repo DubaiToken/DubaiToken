@@ -1,6 +1,6 @@
 
 # DubaiToken Smart Contracts
-<img hight="180" width="180" alt="current" src="./assets/nexo.svg">
+<img hight="180" width="180" alt="current" src="./assets/dubaiToken.jpg">
 <!--
 **DubaiToken/DubaiToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
