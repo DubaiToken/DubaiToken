@@ -52,7 +52,7 @@ and approvals of the token. The ability to pause is controlled by a single `owne
 The simple model for pausing transfers following OpenZeppelin's
 [Pausable](https://github.com/OpenZeppelin/openzeppelin-solidity/blob/5daaf60d11ee2075260d0f3adfb22b1c536db983/contracts/lifecycle/Pausable.sol).
 
-## Bytecode verification
+## Contract verification
 
 The proxy contract and implementation contracts are verified on etherscan at the following links:
 https://etherscan.io/token/0x83de61115b819601d4a44fa02f7d6642f6346013
